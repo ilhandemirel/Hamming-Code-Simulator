@@ -42,11 +42,11 @@ Proje, ek bir kütüphane kurulumu gerektirmez. Sisteminizde Python 3 yüklü ol
 
 1.  **Depoyu Klonlayın:** Bu depoyu bilgisayarınıza indirin.
     ```bash
-    git clone [https://github.com/ilhandemirel/Hamming-Code-Simulator].git
+    git clone https://github.com/ilhandemirel/Hamming-Code-Simulator.git
     ```
 2.  **Dizine Gidin:** Proje klasörünün içine girin.
     ```bash
-    cd [Hamming-Code-Simulator]
+    dir Hamming-Code-Simulator
     ```
 3.  **Simülatörü Başlatın:** Aşağıdaki komut ile uygulamayı çalıştırın.
     ```bash
