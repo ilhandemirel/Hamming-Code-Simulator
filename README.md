@@ -5,7 +5,7 @@ Bu proje, **Hamming kodlamasının** Tek Hata Düzeltme ve Çift Hata Tespit (SE
 
 ---
 
-## 📺 Demo Videosu
+## 📺 Youtube Videosu
 
 Uygulamanın nasıl çalıştığını, temel özelliklerini ve kullanımını gösteren videoya aşağıdaki linkten ulaşabilirsiniz.
 [![Hamming Simülatör](https://i9.ytimg.com/vi_webp/iUMgavxAR6s/mqdefault.webp?v=68446e84&sqp=CLjbkcIG&rs=AOn4CLC6G4KPV3_ECv3qR5UoPlEagsAA-g)](https://youtu.be/iUMgavxAR6s)
