@@ -12,14 +12,6 @@ Uygulamanın nasıl çalıştığını, temel özelliklerini ve kullanımını g
 
 ---
 
-## 📝 Proje Raporu
-
-Projenin tüm detaylarını, teorik altyapısını, tasarım kararlarını, kodun yapısını ve elde edilen sonuçları içeren proje anlatım dokümanına (raporuna) aşağıdaki linkten erişebilirsiniz.
-
-- **[Proje Raporunu Görüntülemek İçin Tıklayın](./BLM230_Proje_AdSoyad_OgrenciNo.pdf)**
-
----
-
 ## 🚀 Temel Özellikler
 
 - **İnteraktif Arayüz:** Tkinter ile geliştirilmiş kullanıcı dostu ve modern bir arayüz.
